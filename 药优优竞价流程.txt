@@ -1,0 +1,55 @@
+#项目工程
+Btrade-boss
+Btrade-callback
+Btrade-mobile
+Btrade-pc
+
+
+
+#代码结构
+/handler   服务器端业务逻辑代码
+/log       日志文件
+/static    静态文件
+/templates 模板文件
+app.py     启动文件
+config.py  配置文件
+
+#其他
+Btrade-public工程
+存放公共调用方法，mongodb、session、database链接操作
+通用组件，分页组件
+
+
+
+#发布
+1.上工好药
+a.用终端登录服务器
+b.进入到/opt/tomcat-sghaoyao/deploy:   
+cd /opt/tomcat-sghaoyao/deploy
+c.ftp上传war包
+d.进入到/opt/tomcat-sghaoyao/bin:  
+cd /opt/tomcat-sghaoyao/bin
+bash shutdown.sh
+bash startup.sh
+
+2.药优优（商城）
+a.用终端登录服务器
+b.进入到/opt/tomcat-yaoyy/deploy:      
+cd /opt/tomcat-yaoyy/deploy
+c.ftp上传war包
+d.进入到/opt/tomcat-yaoyy/bin:   
+cd /opt/tomcat-sghaoyao/bin
+bash shutdown.sh
+bash startup.sh
+
+3.药优优（竞价）
+a.用终端登录服务器
+b.进入到/opt/yaocai/Btrade/res:      
+cd /opt/yaocai/Btrade/res
+c.git更新代码
+git pull
+d.启动服务:    
+/usr/bin/python Btrade-mobile/app.py
+/usr/bin/python Btrade-pc/app.py
+/usr/bin/python Btrade-boss/app.py
+/usr/bin/python Btrade-callback/app.py
