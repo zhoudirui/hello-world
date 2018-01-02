@@ -1,22 +1,24 @@
 
-1¡¢btrade-master  ÊÇ Ò©ÓÅÓÅ¾º¼Û python Ğ´µÄÓĞÊÖ»úÎ¢ĞÅ¶ËµÄ ºÍ pc¶ËµÄ¡£Òª°²×°python27,pycharm(¿ª·¢¹¤¾ß)£¬mysqlµÈ¡£
-	µÇÂ¼£ºmall.yaobest.com <user£º18355071573 password :16>
+1ã€btrade-master  æ˜¯ è¯ä¼˜ä¼˜ç«ä»· python å†™çš„æœ‰æ‰‹æœºå¾®ä¿¡ç«¯çš„ å’Œ pcç«¯çš„ã€‚è¦å®‰è£…python27,pycharm(å¼€å‘å·¥å…·)ï¼Œmysqlç­‰ã€‚
+	ç™»å½•ï¼šmall.yaobest.com <userï¼š18355071573 password :16>
 
-	£¨ m.yaobest.com ÊÇÊÖ»ú¶Ë--Î¢ĞÅ¶Ë¡£ £©
-
-
+	ï¼ˆ m.yaobest.com æ˜¯æ‰‹æœºç«¯--å¾®ä¿¡ç«¯ã€‚ ï¼‰
 
 
-2¡¢ccx    ÊÇ ³ö³µĞĞ maven ÏîÄ¿£¨»¹Ã»ÍêÕû£©
 
 
-3¡¢pieces   ÊÇ ÉÏ¹¤ºÃÒ© java ÏîÄ¿¡£
+2ã€ccx    æ˜¯ å‡ºè½¦è¡Œ maven é¡¹ç›®ï¼ˆè¿˜æ²¡å®Œæ•´ï¼‰
 
-	Ç°Ì¨£ºwww.sghaoyao.com  <user£º18355071573 password£º16 ><4HYSMS , 16><4HHQYT ,16><4HH2HK , 16>
-	ºóÌ¨£ºboss.sghaoyao.com <user:hehuan password:16 >
+
+3ã€pieces   æ˜¯ ä¸Šå·¥å¥½è¯ java é¡¹ç›®ã€‚
+
+	å‰å°ï¼šwww.sghaoyao.com  <userï¼š18355071573 passwordï¼š16 ><4HYSMS , 16><4HHQYT ,16><4HH2HK , 16>
+	åå°ï¼šboss.sghaoyao.com <user:hehuan password:16 >
 	
 
-4¡¢yaoyy    ÊÇ  Ò©ÓÅÓÅÉÌ³Ç java ÏîÄ¿¡£www.yaobest.com
+4ã€yaoyy    æ˜¯  è¯ä¼˜ä¼˜å•†åŸ java é¡¹ç›®ã€‚www.yaobest.com
 
 
-5.crmÏîÄ¿-qmy ÊÇ´ÓÇüÃÎÓ°get crm ÏîÄ¿£¬jdk1.7¡¢ mysql¡¢springMVC ¡£eclipse.
+5.crmé¡¹ç›®-qmy æ˜¯ä»å±ˆæ¢¦å½±get crm é¡¹ç›®ï¼Œjdk1.7ã€ mysqlã€springMVC ã€‚eclipse.
+
+hahaha Â å“ˆå“ˆå“ˆ æµ‹è¯•
